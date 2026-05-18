@@ -1,5 +1,4 @@
 # Namma-Metro-Sahaya-Infrastructure-
-# Namma Metro Sahaya 🚇
 
 ## Overview
 
